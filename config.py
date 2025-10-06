@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 7096580515))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
-CHAT = getenv("CHAT", "https://t.me/ProBotGc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_star_bots_ll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ll_star_bots_support_ll")
+CHAT = getenv("CHAT", "https://t.me/ll_vip_about_ll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -143,13 +143,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 
 STREAMI_PICS = [
-"https://i.ibb.co/whgkNq6n/start-img-1.jpg",
-"https://i.ibb.co/q32FdssH/start-img-2.jpg",
+"https://files.catbox.moe/huzmh3.mp4",
+"https://files.catbox.moe/huzmh3.mp4",
 
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/huzmh3.mp4"
 )
 
 HELP_IMG_URL = getenv(
