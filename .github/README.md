@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://i.ibb.co/23JNhkRC/clonify.jpg">
+  <img src="https://files.catbox.moe/czeuyx.jpg">
 </p>
 
 <p align="center">
