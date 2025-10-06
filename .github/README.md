@@ -1,5 +1,5 @@
 <h2 align="center">
-    ───「 ᴄʟᴏɴɪғʏ 」───
+    ───「 cloner music」───
 </h2>
 
 <p align="center">
