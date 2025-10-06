@@ -19,9 +19,9 @@ async def ping_clone(client: Client, message: Message):
 
     #Cloned Bot Support Chat and channel
     C_BOT_SUPPORT_CHAT = await get_cloned_support_chat(bot.id)
-    C_SUPPORT_CHAT = f"https://t.me/{C_BOT_SUPPORT_CHAT}"
+    C_SUPPORT_CHAT = f"https://t.me/ll_star_bots_support_ll"
     C_BOT_SUPPORT_CHANNEL = await get_cloned_support_channel(bot.id)
-    C_SUPPORT_CHANNEL = f"https://t.me/{C_BOT_SUPPORT_CHANNEL}"
+    C_SUPPORT_CHANNEL = f"https://t.me/ll_star_bots_ll"
 
     hmm = await message.reply_photo(
         photo=PING_IMG_URL, caption=f"{bot.mention} ɪs ᴘɪɴɢɪɴɢ..."
