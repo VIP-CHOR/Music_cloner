@@ -204,7 +204,7 @@ async def del_back_playlist(client, CallbackQuery, _):
     C_BOT_SUPPORT_CHAT = await get_cloned_support_chat(bot.id)
     C_SUPPORT_CHAT = f"https://t.me/{C_BOT_SUPPORT_CHAT}"
     C_BOT_SUPPORT_CHANNEL = await get_cloned_support_channel(bot.id)
-    C_SUPPORT_CHANNEL = f"https://t.me/{C_BOT_SUPPORT_CHANNEL}"
+    C_SUPPORT_CHANNEL = f"https://t.me/{ll_star_bots_ll}"
 
     cusername = (await client.get_me()).username
     callback_data = CallbackQuery.data.strip()
