@@ -106,11 +106,11 @@ For a full list of commands, use `/help` in [telegram](https://t.me/Amitamusicbo
 </h3>
 
 <p align="center">
-<a href="https://t.me/ProBotGc"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_star_bots_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/ProBotts"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TEAM_CHOR"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <br />
